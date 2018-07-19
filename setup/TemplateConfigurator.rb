@@ -40,7 +40,7 @@ module Pod
       remove_git_repo
 
       #执行pod install
-      # run_pod_install
+      run_pod_install
 
       puts "-------------创建项目完成-----------------"
 
